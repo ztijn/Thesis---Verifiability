@@ -1,0 +1,11 @@
+First annotation:
+Total:1000	 Verif:275	 UnVerif:522	 NonArg:203
+Pers:54	 NonPers:220
+Easy:121	 Difficult:154
+Second annotation:
+Total:1000	 Verif:292	 UnVerif:496	 NonArg:212
+Pers:52	 NonPers:240
+Easy:136	 Difficult:156
+Cohen's Kappa Verif/UnVerif/NonArg =  0.8931610095960838
+Cohen's Kappa Pers/NonPers =  0.8261713066252789
+Cohen's Kappa Easy/Difficult =  0.4609375
